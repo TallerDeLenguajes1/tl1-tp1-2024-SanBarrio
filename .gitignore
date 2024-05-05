@@ -24,4 +24,8 @@ tp1_1.exe
 .history
 .ionide
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+=======
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+>>>>>>> cccb22e1a53d3d8764cec151ec14f37a7d4b2090
