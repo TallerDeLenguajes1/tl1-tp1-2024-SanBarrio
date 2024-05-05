@@ -19,3 +19,11 @@ Para configurar el archivo .gitignore se utiliza cierta combinación de caracter
 Veo los archivos: output (carpeta), .gitignore, README.md, tp1_1.cpp
 El archivo que creo que no hace falta ver es la carpeta output.
 
+#####  Si resolvió correctamente los apartados 2 y 3 del punto anterior notaráque el resultado es el mismo. ¿a qué se debe? 
+Porque la variable puntero (p_variable) guarda la dirección de memoria de la variable (variable). 
+
+##### ¿Qué obtiene en el punto 4? 
+La dirección de memoria de la propia variable puntero (p_variable).
+
+##### ¿Es igual a los anteriores?¿Por qué?
+NO. Porque la dirección que guarda la variable puntero (p_variable) es distinta a su propia dirección.
