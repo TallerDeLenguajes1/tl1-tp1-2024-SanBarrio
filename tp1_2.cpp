@@ -12,9 +12,9 @@ int main()
 
     cin >> a;
     b = numeroCuadrado(a);
-    cout << b << endl;
+    cout << "Dirección de memoria de variable: "<<&b<< "\n cuadrado de la variable: "<<b<< endl;
     numeroCuadrado1(a);
-    cout << a << endl;
+    cout << "Dirección de memoria de variable: "<<&a<< "\n cuadrado de la variable: "<<a<< endl;
 }
 
 int numeroCuadrado(int a)
