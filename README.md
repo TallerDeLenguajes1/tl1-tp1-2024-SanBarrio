@@ -15,3 +15,7 @@ Para configurar el archivo .gitignore se utiliza cierta combinación de caracter
 * Si usa / / podrá ocultar aquellos directorios que no quiere que muestren.
 
 
+##### Revise los archivos subidos en su repositorio de github. ¿Qué archivos vé?¿Cuál cree que no hace falta que esté?
+Veo los archivos: output (carpeta), .gitignore, README.md, tp1_1.cpp
+El archivo que creo que no hace falta ver es la carpeta output.
+
