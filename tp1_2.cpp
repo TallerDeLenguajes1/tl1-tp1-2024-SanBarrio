@@ -5,6 +5,9 @@ using namespace std;
 int numeroCuadrado(int a);
 void numeroCuadrado1(int a);
 
+void Invertir(int a,int b);
+void orden(int a,int b);
+
 int main()
 {
 
@@ -24,4 +27,14 @@ int numeroCuadrado(int a)
 
 void numeroCuadrado1(int a){
     a=a*a;
+}
+
+void Invertir(int a,int b){
+    int aux;
+    aux=a;
+    a=b;
+    b=aux;
+}
+void orden(int a,int b){
+    if(a>b) Invertir(a,b);
 }
